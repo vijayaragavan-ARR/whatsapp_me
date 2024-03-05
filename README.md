@@ -16,12 +16,12 @@ This project is a clone of the popular messaging application WhatsApp, built usi
 ### Clone the repository:
 
 ```
-git clone https://github.com/yourusername/whatsapp_clone.git
+git clone https://github.com/vijayaragavan-ARR/whatsapp_me.git
 ```
 ### Navigate to the project directory:
 
 ```
-cd whatsapp_clone
+cd whatsapp_me
 ```
 
 ### Install dependencies:
